@@ -156,13 +156,16 @@ npm run lint
 ## 📱 Screenshots
 
 ### Tela Principal
-![Screenshot da aplicação mostrando busca] (<img width="1905" height="919" alt="image" src="https://github.com/user-attachments/assets/4356b6c3-1932-4020-b978-4172321c4ddb" />)
+![Screenshot da aplicação mostrando busca] 
+<img width="1905" height="919" alt="image" src="https://github.com/user-attachments/assets/4356b6c3-1932-4020-b978-4172321c4ddb" />
 
 ### Trending Movies
-![Screenshot mostrando os filmes mais buscados] (<img width="1903" height="561" alt="image" src="https://github.com/user-attachments/assets/d732e1ab-4c0e-4f87-9887-9b55f828aa55" />)
+![Screenshot mostrando os filmes mais buscados] 
+<img width="1903" height="561" alt="image" src="https://github.com/user-attachments/assets/d732e1ab-4c0e-4f87-9887-9b55f828aa55" />
 
 ### Responsivo
-![Screenshot da versão mobile] (<img width="306" height="768" alt="image" src="https://github.com/user-attachments/assets/6c8ce2be-2af1-4e76-8672-cda35e7d3fac" />)
+![Screenshot da versão mobile] 
+<img width="306" height="768" alt="image" src="https://github.com/user-attachments/assets/6c8ce2be-2af1-4e76-8672-cda35e7d3fac" />
 
 
 ## 👨‍💻 Autor
