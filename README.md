@@ -156,13 +156,13 @@ npm run lint
 ## 📱 Screenshots
 
 ### Tela Principal
-![Screenshot da aplicação mostrando busca] (https://github.com/Isaiaslc-dev/React_Movie_App/blob/main/src/assets/main%20page.jpg?raw=true)
+![Screenshot da aplicação mostrando busca] (<img width="1905" height="919" alt="image" src="https://github.com/user-attachments/assets/4356b6c3-1932-4020-b978-4172321c4ddb" />)
 
 ### Trending Movies
-![Screenshot mostrando os filmes mais buscados] (https://github.com/Isaiaslc-dev/React_Movie_App/blob/main/src/assets/trendings.jpg?raw=true)
+![Screenshot mostrando os filmes mais buscados] (<img width="1903" height="561" alt="image" src="https://github.com/user-attachments/assets/d732e1ab-4c0e-4f87-9887-9b55f828aa55" />)
 
 ### Responsivo
-![Screenshot da versão mobile] (https://github.com/Isaiaslc-dev/React_Movie_App/blob/main/src/assets/mobile.jpg?raw=true)
+![Screenshot da versão mobile] (<img width="306" height="768" alt="image" src="https://github.com/user-attachments/assets/6c8ce2be-2af1-4e76-8672-cda35e7d3fac" />)
 
 
 ## 👨‍💻 Autor
