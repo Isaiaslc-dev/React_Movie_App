@@ -50,7 +50,7 @@ Movie Search App é uma aplicação moderna de busca de filmes que permite aos u
 
 1. **Clone o repositório**
    
-git clone [https://github.com/seu-usuario/movie-search-app.git](https://github.com/Isaiaslc-dev/React_Movie_App)
+git clone (https://github.com/Isaiaslc-dev/React_Movie_App)
 
 
 3. **Instale as dependências**
